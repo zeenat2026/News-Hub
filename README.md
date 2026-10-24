@@ -2,7 +2,8 @@
 
 A responsive news application built with React and Material UI where users can browse the latest news by category and search for articles.
 
-**Live Demo https://news-hub-frontend-gray.vercel.app
+**Live Demo = https://news-hub-frontend-gray.vercel.app
+** VITE_BACKEND_URI = https://news-hub-khaki-gamma.vercel.app
 ## Features
 
 - Browse news by category
