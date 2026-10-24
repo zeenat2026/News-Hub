@@ -2,6 +2,7 @@
 
 A responsive news application built with React and Material UI where users can browse the latest news by category and search for articles.
 
+**Live Demo https://news-hub-frontend-gray.vercel.app
 ## Features
 
 - Browse news by category
@@ -45,4 +46,4 @@ A responsive news application built with React and Material UI where users can b
 ## Author
 
 Zeenat Shafqaat
-[LinkedIn](https://www.linkedin.com/in/zeenat-shafqaat) | [GitHub](https://github.com/zeenat2026)
+[LinkedIn](https://www.linkedin.com/in/zeenat-shafqaat) | [GitHub](https://github.com/zeenat2026/News-Hub)
